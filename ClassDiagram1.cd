@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OOD2_App.Element">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_App.Merger">
+    <Position X="9.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAEkAAAAAAAAAAAAA=</HashCode>
+      <FileName>Merger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_App.Splitter">
+    <Position X="6.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAgAACAAAEQAAAAAAAAAAAA=</HashCode>
+      <FileName>Splitter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_App.Pipe">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAiAACACAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_App.Sink">
+    <Position X="2.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAACACAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_App.Pump">
+    <Position X="4.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACACAAAUAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pump.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_App.SplitterAdjustable">
+    <Position X="9.5" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACgAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>SplitterAdjustable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_App.Item">
+    <Position X="4.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAABAAAAACAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_App.Network">
+    <Position X="0.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAADgAAAAAAAAAAoAAAAAAEkAAAAAAAAAA=</HashCode>
+      <FileName>Network.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Items" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.Collections.Generic.List&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.1" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
